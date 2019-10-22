@@ -1,0 +1,1 @@
+s:195:"<strong>Stack trace:</strong> <ul style="text-align:left;"><li>line 494 of /lib/setuplib.php: moodle_exception thrown</li><li>line 33 of /lib/ajax/setuserpref.php: call to print_error()</li></ul>";

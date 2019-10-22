@@ -1,0 +1,1 @@
+s:262:"<strong>Stack trace:</strong> <ul style="text-align:left;"><li>line 494 of /lib/setuplib.php: moodle_exception thrown</li><li>line 7969 of /lib/adminlib.php: call to print_error()</li><li>line 24 of /admin/search.php: call to admin_externalpage_setup()</li></ul>";

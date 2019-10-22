@@ -1,0 +1,29 @@
+O:8:"stdClass":9:{s:7:"modinfo";a:5:{i:24;O:8:"stdClass":14:{s:2:"id";s:1:"7";s:2:"cm";s:2:"24";s:3:"mod";s:8:"resource";s:7:"section";s:1:"0";s:9:"sectionid";s:2:"19";s:6:"module";s:2:"17";s:5:"added";s:10:"1562741585";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:4:"icon";s:9:"f/jpeg-24";s:4:"name";s:5:"Slide";s:10:"customdata";s:28:"a:1:{s:10:"printintro";i:1;}";}i:47;O:8:"stdClass":12:{s:2:"id";s:2:"13";s:2:"cm";s:2:"47";s:3:"mod";s:6:"lesson";s:7:"section";s:1:"0";s:9:"sectionid";s:2:"19";s:6:"module";s:2:"13";s:5:"added";s:10:"1566016716";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:4:"name";s:17:"Topic add testing";}i:21;O:8:"stdClass":12:{s:2:"id";s:1:"2";s:2:"cm";s:2:"21";s:3:"mod";s:6:"lesson";s:7:"section";s:1:"1";s:9:"sectionid";s:2:"20";s:6:"module";s:2:"13";s:5:"added";s:10:"1562126319";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:4:"name";s:41:"A Story for Relating to Accounting Basics";}i:22;O:8:"stdClass":12:{s:2:"id";s:2:"11";s:2:"cm";s:2:"22";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"1";s:9:"sectionid";s:2:"20";s:6:"module";s:2:"16";s:5:"added";s:10:"1562126450";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:4:"name";s:22:"Accounting Basics Quiz";}i:48;O:8:"stdClass":13:{s:2:"id";s:2:"14";s:2:"cm";s:2:"48";s:3:"mod";s:6:"lesson";s:7:"section";s:1:"1";s:9:"sectionid";s:2:"20";s:6:"module";s:2:"13";s:5:"added";s:10:"1566017134";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:9:"groupmode";s:1:"1";s:10:"completion";s:1:"1";s:4:"name";s:8:"Lesson 1";}}s:12:"sectioncache";a:2:{i:0;O:8:"stdClass":4:{s:2:"id";s:2:"19";s:4:"name";s:0:"";s:7:"summary";s:953:"<p>A general accounting system is almost a dinosaur. It is a thing of the 
+past mainly because it is outdated and modern management needs a more 
+sophisticated accounting system. A general accounting system is a system
+ that keeps track of inventory on a periodic basis. This was most often 
+used in manufacturing companies.</p><p><p>Basically, a general accounting system would count the inventory or 
+track it periodically rather than continually. In other words, the 
+inventory would be counted in one stage then a few weeks or months would
+ go by and the inventory would be counted at another stage. Think about 
+how horrible this data is for management.</p>
+<p>It is completely outdated and inaccurate. How is management supposed 
+to make decisions and strategies based on inventory numbers that are 
+always out of date and inaccurate? That is why more companies are moving
+ away from traditional general accounting systems.</p><br></p>";s:12:"availability";s:28:"{"op":"&","c":[],"showc":[]}";}i:1;O:8:"stdClass":4:{s:2:"id";s:2:"20";s:4:"name";s:33:"Introduction to Accounting Basics";s:7:"summary";s:1165:"<p><p>This explanation of accounting basics will introduce you to some 
+basic accounting principles, accounting concepts, and accounting 
+terminology. Once you become familiar with some of these terms and 
+concepts, you will feel comfortable navigating through the explanations,
+ quizzes, puzzles, and other features of AccountingCoach.com.</p>
+<p>Some of the basic accounting terms that you will learn include 
+revenues, expenses, assets, liabilities, income statement, balance 
+sheet, and statement of cash flows. You will become familiar with 
+accounting debits and credits as we show you how to record transactions.
+ You will also see why two basic accounting principles, the revenue 
+recognition principle and the matching principle, assure that a 
+company's income statement reports a company's profitability.</p>
+<p>In this explanation of accounting basics, and throughout all of the 
+free materials and the PRO materials—we will often omit some accounting 
+details and complexities in order to present clear and concise 
+explanations. This means that you should always seek professional advice
+ for your specific circumstances.</p><br></p>";s:12:"availability";s:28:"{"op":"&","c":[],"showc":[]}";}}s:9:"shortname";s:4:"ACBL";s:8:"fullname";s:32:"Accounting Course Beginner Level";s:6:"format";s:6:"topics";s:16:"enablecompletion";s:1:"1";s:9:"groupmode";s:1:"0";s:14:"groupmodeforce";s:1:"0";s:8:"cacherev";s:10:"1566017175";}

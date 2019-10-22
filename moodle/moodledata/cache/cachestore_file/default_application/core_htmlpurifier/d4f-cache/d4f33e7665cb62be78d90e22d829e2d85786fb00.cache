@@ -1,0 +1,8 @@
+s:520:"<p>Cohorts may be uploaded via text file. The format of the file should be as follows:</p>
+
+<ul><li>Each line of the file contains one record</li>
+<li>Each record is a series of data separated by commas (or other delimiters)</li>
+<li>The first record contains a list of fieldnames defining the format of the rest of the file</li>
+<li>Required fieldname is name</li>
+<li>Optional fieldnames are idnumber, description, descriptionformat, visible, context, category, category_id, category_idnumber, category_path</li>
+</ul>";
