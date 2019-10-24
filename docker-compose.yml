@@ -7,7 +7,7 @@ services:
       - MARIADB_DATABASE=bitnami_moodle
       - ALLOW_EMPTY_PASSWORD=yes
     volumes:
-      - 'C:/HQS Data/Docker/Moodle:/bitnami'
+      - '~/HQS Data/Docker/Moodle:/bitnami'
   moodle:
     image: 'bitnami/moodle:3'
     environment:
