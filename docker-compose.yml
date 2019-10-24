@@ -1,6 +1,7 @@
-version: '2.1'
+version: '2'
 services:
   mariadb:
+    user: root
     image: 'bitnami/mariadb:latest'
     environment:
       - MARIADB_USER=admin
