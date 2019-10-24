@@ -20,7 +20,7 @@ services:
       - '8085:80'
       - '443:443'
     volumes:
-      - 'C:/HQS Data/Docker/Moodle:/bitnami'
+      - '~/HQS Data/Docker/Moodle:/bitnami'
     depends_on:
       - mariadb
 volumes:
