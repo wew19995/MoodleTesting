@@ -6,6 +6,7 @@ networks:
   moodle:
 services:
   mariadb:
+    user: root
     image: 'bitnami/mariadb:latest'
     environment:
       - MARIADB_USER=admin
@@ -16,6 +17,7 @@ services:
     networks: 
       - moodle
   moodle:
+    user: root
     image: 'bitnami/moodle:latest'
     environment:
       - MARIADB_HOST=mariadb
