@@ -1,9 +1,4 @@
-version: '3'
-volumes:
-  mariadb_data:
-  moodle_data:
-networks:
-  moodle:
+version: '2'
 services:
   mariadb:
     user: root
@@ -13,12 +8,10 @@ services:
       - MARIADB_DATABASE=bitnami_moodle
       - ALLOW_EMPTY_PASSWORD=yes
     volumes:
-      - '../mariadb_data:/bitnami'
-    networks: 
-      - moodle
+      - '~/Moodle:/bitnami'
   moodle:
     user: root
-    image: 'bitnami/moodle:latest'
+    image: 'bitnami/moodle:3'
     environment:
       - MARIADB_HOST=mariadb
       - MARIADB_PORT_NUMBER=3306
@@ -26,25 +19,14 @@ services:
       - MOODLE_DATABASE_NAME=bitnami_moodle
       - ALLOW_EMPTY_PASSWORD=yes
     ports:
-      - '80:80'
+      - '8085:80'
       - '443:443'
     volumes:
-      - '../moodle_data:/bitnami'
+      - '~/Moodle:/bitnami'
     depends_on:
       - mariadb
-    networks:
-      - moodle
-
-# version: '2.1'
-# services:
-#   mariadb:
-#     image: 'bitnami/mariadb:latest'
-#     environment:
-#       - MARIADB_USER=admin
-#       - MARIADB_DATABASE=bitnami_moodlem
-#       - ALLOW_EMPTY_PASSWORD=yes
-#     volumes:
-#       - 'C:/HQS Data/Docker/Moodle:/bitnami'
-# volumes:
-#   mariadb_data:
-#     driver: local
+volumes:
+  mariadb_data:
+    driver: local
+  moodle_data:
+    driver: local
